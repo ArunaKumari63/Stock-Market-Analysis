@@ -1,0 +1,1 @@
+This directory contains stock market data for the Metal industries within the Nifty 50 dataset, spanning from the year 2011 to 2022. This data is utilized for both model training and analysis purposes.
