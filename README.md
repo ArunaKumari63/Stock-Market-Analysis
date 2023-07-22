@@ -20,3 +20,6 @@ Machine Learning Models Utilized:
 2. LSTM Model
 3. XGBoost Model
 4. Arima Model
+
+
+For Clear Understanding of the project please feel free to check my PPT.
