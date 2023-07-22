@@ -1,0 +1,1 @@
+This directory contains stock market data for the Metal industries within the Nifty 50 dataset for year 2023 from Jan - Mar. This data is utilized for both model testing and analysis verification purposes.
